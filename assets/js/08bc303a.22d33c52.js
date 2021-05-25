@@ -1,0 +1,1 @@
+(self.webpackChunkfabidocs=self.webpackChunkfabidocs||[]).push([[527],{1354:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/fabidocs/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/fabidocs/blog/tags/docusaurus"}')}}]);

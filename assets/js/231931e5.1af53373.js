@@ -1,0 +1,1 @@
+(self.webpackChunkfabidocs=self.webpackChunkfabidocs||[]).push([[749],{6109:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/fabidocs/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/fabidocs/blog/tags/hello"}')}}]);
